@@ -156,7 +156,7 @@ ro.hwui.text_large_cache_height=1024
 
 
 # enable navigation bar
-qemu.hw.mainkeys=0
+qemu.hw.mainkeys=1
 
 #property to enable VDS WFD solution
 persist.hwc.enable_vds=1
