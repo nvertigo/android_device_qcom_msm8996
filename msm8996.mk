@@ -6,6 +6,8 @@ BOARD_FRP_PARTITION_NAME :=frp
 
 TARGET_KERNEL_VERSION := 3.18
 
+CUSTOM_BUILD_USER = nvertigo
+
 #QTIC flag
 -include $(QCPATH)/common/config/qtic-config.mk
 
